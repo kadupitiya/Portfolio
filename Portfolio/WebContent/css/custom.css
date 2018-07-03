@@ -1,0 +1,26 @@
+.title-text {
+ text-shadow: 0 2px 0 black;
+ background-color: rgba(0, 0, 0, 0.2);
+  color: #fff; 
+  display: inline;
+  padding: 0.1rem;
+  
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+
+.title-heading {
+ text-shadow: 0 2px 0 black;
+}
+
+p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.title-shift {
+
+  margin-right: 6%;
+  
+
+}
